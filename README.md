@@ -133,7 +133,7 @@ K-Means (PCA)      | 0.377      | 1.054          | 2        | 0
 - Dimensionality reduction impact
 - Practical recommendations
 
-## 🛠 Dependencies
+##  Dependencies
 
 | Package | Version | Purpose |
 |---------|---------|---------|
